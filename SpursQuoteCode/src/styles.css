@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    padding: 0px 0px 50px 0px;
+}
+
+.jumbotron{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+}
